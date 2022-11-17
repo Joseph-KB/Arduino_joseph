@@ -9,6 +9,7 @@ SoftwareSerial gsmSim(5,6);   //Tx(gsmSim900A)-->pin5(Rx of Arduino) &&& Rx(gsmS
 
 
 String message;
+
 int pirCount=0;
 int gasCount=0;
 
